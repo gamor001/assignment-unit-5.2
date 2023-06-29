@@ -1,0 +1,21 @@
+/*- 
+
+*/
+
+  header {
+    background-color: darkcyan;
+    color: lightcyan;
+    text-align: center;
+  }
+
+  main {
+    background-color: lightgray;
+    padding: 1em;
+  }
+
+  body {
+    background-image: url('record.png');
+    background-repeat: repeat-x repeat-y;
+    margin: 0;
+  }
+
